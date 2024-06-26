@@ -5,7 +5,7 @@
 > Use the reference photo and generate the product in the following backgrounds : sand, snow, forest and water
 
 <div class="center">
-  <div class="img-sizer" style="width: 200px">
+  <div class="img-sizer" style="width: 100px">
 
 ![Reference Image](<images/reference image.png>)
 
@@ -49,7 +49,7 @@
 ### For Forest
 
 <div class="center">
-  <div class="img-sizer" style="width: 200px">
+  <div class="img-sizer" style="width: 100px">
 
 ![Forest](<images/forest 1.png>)
 
@@ -68,7 +68,7 @@
 ### Miscellaneous
 
 <div class="center">
-  <div class="img-sizer" style="width: 200px">
+  <div class="img-sizer" style="width: 100px">
 
 ![Miscellaneous](<images/miscellaneous.png>)
 
