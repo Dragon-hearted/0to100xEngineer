@@ -3,15 +3,7 @@
 ## Problem Statement
 
 > Use the reference photo and generate the product in the following backgrounds : sand, snow, forest and water
-
-<div class="center">
-  <div class="img-sizer" style="width: 100px">
-
-![Reference Image](<images/reference image.png>)
-
-  </div>
-</div>
-
+>> ![Reference Image](<images/reference image.png>)
 
 ## Method Used
 
@@ -48,13 +40,7 @@
 
 ### For Forest
 
-<div class="center">
-  <div class="img-sizer" style="width: 100px">
-
 ![Forest](<images/forest 1.png>)
-
-  </div>
-</div>
 
 > Prompt:
 >> professional product photoshoot in forest background with wild elements and gift box
@@ -67,16 +53,14 @@
 
 ### Miscellaneous
 
-<div class="center">
-  <div class="img-sizer" style="width: 100px">
-
 ![Miscellaneous](<images/miscellaneous.png>)
-
-  </div>
-</div>
 
 > Prompt:
 >> professional product photo of perfume bottle in water, gifting box, studio lighting
 >
 > Parameters:
 >> Steps: 20, Sampler: Euler a, Schedule type: Automatic, CFG scale: 7, Seed: 1452799801, Size: 985x1266, Model hash: b513c6287d, Model: realism_engine, Denoising strength: 0.75, Mask blur: 4, Masked content: fill, Version: v1.9.4
+
+<p align = "center">
+<img src="images/reference image.png"  width="100">
+<p>
